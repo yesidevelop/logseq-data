@@ -1,0 +1,1 @@
+- **generative algorithms** The algorithms that can generate new data points that resemble the existing data #card

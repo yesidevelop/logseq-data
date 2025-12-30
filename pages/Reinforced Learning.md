@@ -1,0 +1,3 @@
+- **Reinforcement learning** is a different type of machine learning in which no data is given, and we must get the computer to perform a task. #card
+- ![image.png](../assets/image_1767107382650_0.png)
+-

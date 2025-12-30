@@ -1,0 +1,1 @@
+- **classification models** are the types of models that predict **categorical data**. The output of a classification model is a *category*, or a *state*, such as the type of animal (cat or dog).

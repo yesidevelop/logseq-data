@@ -1,1 +1,4 @@
 - ![supervised.png](../assets/supervised.png)
+- [[Classification]]
+- [[Regression]]
+-

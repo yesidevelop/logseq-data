@@ -2,3 +2,4 @@
 -
 - [[Clustering]]
 - [[dimensionality reduction]]
+- [[generative algorithms]]

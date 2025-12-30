@@ -1,1 +1,2 @@
 - **dimensionality reduction** The algorithms that simplify our data and faithfully describe it with fewer features #card
+- ![image.png](../assets/image_1767107329358_0.png)

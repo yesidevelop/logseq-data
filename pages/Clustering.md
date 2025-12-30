@@ -1,1 +1,2 @@
 - ![image.png](../assets/image_1767106637401_0.png)
+- **clustering algorithms** The algorithms that group data into clusters based on similarity #card
