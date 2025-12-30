@@ -1,0 +1,4 @@
+- Types
+	- [[Supervised]]
+	- [[Unsupervised]]
+	- [[Reinforced Learning]]
