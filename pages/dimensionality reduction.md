@@ -1,0 +1,1 @@
+- **dimensionality reduction** The algorithms that simplify our data and faithfully describe it with fewer features #card
