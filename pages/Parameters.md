@@ -1,1 +1,2 @@
 - **weights** and **bias**—the *parameters* of the model
+- Any quantity that the model creates or modifies *during* the training process is a parameter

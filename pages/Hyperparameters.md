@@ -1,1 +1,2 @@
 - **learning rate**, the **number of epochs**, the **degree** (if considering a polynomial regression model), and many others
+- Any quantity that you set *before* the training process is a **hyperparameter**

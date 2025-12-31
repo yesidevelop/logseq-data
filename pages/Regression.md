@@ -2,7 +2,7 @@
 -
 - [[Linear Regression]]
 - [[Polynomial regression]]
--
+- **Concepts:**
 - [[Parameters]]
 - [[Hyperparameters]]
 -
