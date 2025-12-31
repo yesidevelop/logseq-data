@@ -2,7 +2,12 @@
 -
 - [[Linear Regression]]
 - [[Polynomial regression]]
-- **Concepts:**
+- ## **Concepts:**
 - [[Parameters]]
 - [[Hyperparameters]]
 - ## Applications of Regressions
+- *Rec**ommendation systems*
+- *Video and music recommendations*
+- *Product recommendations*
+- Predicting the life span of a patient, based on their current health conditions
+- Predicting the length of a hospital stay, based on current symptoms
