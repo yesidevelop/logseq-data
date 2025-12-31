@@ -21,3 +21,6 @@
 - **linear equation** This is the equation of a line. It is given by two parameters: the slope and the *y*-intercept. If the slope is *m* and the *y*-intercept is *b*, then the equation of the line is *y* = *mx* + *b*, and the line is formed by all the points (*x,y*) that satisfy the equation #card
 - ![image.png](../assets/image_1767169853770_0.png)
 - **Multivariate linear regression** models the linear relationship between **multiple independent variables (predictors)** and **one or more dependent (outcome) variables** #card
+- ```
+  Price = 30(number of rooms) + 1.5(size) + 10(quality of the schools) – 2(age of the house) + 50
+  ```
