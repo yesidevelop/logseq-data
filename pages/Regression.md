@@ -1,1 +1,4 @@
 - **regression models** are the types of models that predict **numerical data**. The output of a regression model is a *number*, such as the weight of the animal.
+-
+- [[Linear Regression]]
+-
