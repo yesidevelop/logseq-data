@@ -5,4 +5,5 @@ exclude-from-graph-view:: true
 - [[Machine Learning]]
 - ## **Secondary subject (25%)** – slower progress, reinforcement
 - [[Linux Commands]]
--
+- ## **Maintenance subjects (15%)** – , reinforcement
+- revision only
