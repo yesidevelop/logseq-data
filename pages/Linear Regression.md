@@ -1,4 +1,5 @@
-- ![image.png](../assets/image_1767168975583_0.png)
+- **Basic example**
+  ![image.png](../assets/image_1767168975583_0.png)
 - ```Price = 100 + 50(Number of rooms)
   Price = 100 + 50(Number of rooms)
   ```
@@ -9,3 +10,4 @@
 - **prediction** The prediction is the output of the model. If the model says, “I think the house with four rooms is going to cost $300,” then the prediction is 300. #card
 - **weights** In the formula corresponding to the model, each feature is multiplied by a corresponding factor. These factors are the weights. In the previous formula, the only feature is the number of rooms, and its corresponding weight is 50. #card
 - **bias** As you can see, the formula corresponding to the model has a constant that is not attached to any of the features. This constant is called the bias. In this model, the bias is 100, and it corresponds to the base price of a house. #card
+- Compl
