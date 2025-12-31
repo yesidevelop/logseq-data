@@ -3,4 +3,6 @@
 - [[Linear Regression]]
 - [[Polynomial regression]]
 -
+- [[Parameters]]
+- [[Hyperparameters]]
 -

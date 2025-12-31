@@ -1,0 +1,1 @@
+- **weights** and **bias**—the *parameters* of the model
