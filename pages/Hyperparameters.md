@@ -1,0 +1,1 @@
+- **learning rate**, the **number of epochs**, the **degree** (if considering a polynomial regression model), and many others
