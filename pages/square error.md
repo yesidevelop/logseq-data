@@ -1,1 +1,2 @@
 - sum of the squares of these distances #card
+- ![image.png](../assets/image_1767178417793_0.png)

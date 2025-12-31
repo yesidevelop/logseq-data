@@ -1,1 +1,2 @@
 - **absolute error** is the sum of vertical distances from the line to the points in the dataset #card
+- ![image.png](../assets/image_1767178370698_0.png)
