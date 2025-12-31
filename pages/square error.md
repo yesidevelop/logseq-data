@@ -1,0 +1,1 @@
+- sum of the squares of these distances #card

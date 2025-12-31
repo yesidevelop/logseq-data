@@ -34,5 +34,5 @@
 - **Error function** (Also called *loss functions* or *cost functions*) is a metric that tells us how our model is doing #card 
   ![image.png](../assets/image_1767176977121_0.png)
   **Types:**
-  - [[absolute error]]
-  - [[square error]]
+  [[absolute error]]
+  [[square error]]
