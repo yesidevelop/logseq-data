@@ -12,4 +12,7 @@
 - **bias** As you can see, the formula corresponding to the model has a constant that is not attached to any of the features. This constant is called the bias. In this model, the bias is 100, and it corresponds to the base price of a house. #card
 - **Complicated example**
   ![image.png](../assets/image_1767169456006_0.png)
--
+- ![image.png](../assets/image_1767169500804_0.png)
+- ```
+  Price = 100 + 50(Number of rooms) + (Small error)
+  ```
