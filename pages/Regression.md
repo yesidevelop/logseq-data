@@ -5,4 +5,4 @@
 - **Concepts:**
 - [[Parameters]]
 - [[Hyperparameters]]
--
+- ## Applications of Regressions
