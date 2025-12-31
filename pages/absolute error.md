@@ -1,2 +1,3 @@
 - **absolute error** is the sum of vertical distances from the line to the points in the dataset #card
 - ![image.png](../assets/image_1767178370698_0.png)
+- the **mean absolute error** is the average of the vertical distances from the points to the line #card

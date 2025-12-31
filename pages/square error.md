@@ -1,3 +1,4 @@
 - sum of the squares of these distances #card
 - ![image.png](../assets/image_1767178417793_0.png)
 - the square error is used more commonly in practice than the absolute error. Why? A square has a much nicer derivative than an absolute value, which comes in handy during the training process.
+- the **mean square error** is the average of the squares of these same distances #card
