@@ -1,1 +1,3 @@
-- exclude-from-graph-view
+exclude-from-graph-view:: true
+
+-
