@@ -16,3 +16,4 @@
 - ```
   Price = 100 + 50(Number of rooms) + (Small error)
   ```
+- **slope** The slope of a line is a measure of how steep it is. #card
