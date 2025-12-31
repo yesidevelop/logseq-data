@@ -29,4 +29,4 @@
 - ## How to get the computer to draw this line: The linear regression algorithm
   
   The way we do this is the same way we do many things in machine learning: step by step. Start with a random line, and figure out a way to improve this line a *little bit* by moving it closer to the points. Repeat this process many times, and voilà, we have the desired line. This process is called the linear regression algorithm.
--
+- ![image.png](../assets/image_1767171689848_0.png)
