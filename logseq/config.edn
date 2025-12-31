@@ -421,5 +421,5 @@
  :file/name-format :triple-lowbar
  :graph/settings {:builtin-pages? false
  :journal? false
- :orphan-pages? true
+ :orphan-pages? false
  :excluded-pages? false}}
