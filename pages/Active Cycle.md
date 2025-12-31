@@ -4,3 +4,5 @@ exclude-from-graph-view:: true
 - ## **Primary subject (60%)** – deep focus, active learning
 - [[Machine Learning]]
 - ## **Secondary subject (25%)** – slower progress, reinforcement
+- [[Linux Commands]]
+-
