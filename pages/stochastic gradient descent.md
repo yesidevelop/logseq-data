@@ -1,0 +1,1 @@
+- When we use one point at a time, it is called *stochastic gradient descent*

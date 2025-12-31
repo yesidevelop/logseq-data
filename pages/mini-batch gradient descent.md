@@ -1,0 +1,1 @@
+- When we use a mini-batch, it is called *mini-batch gradient descent*

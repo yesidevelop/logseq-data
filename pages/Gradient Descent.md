@@ -3,5 +3,7 @@
 - **gradient descent** comes in: it is a great way to minimize a (error) (absolute or square) function.
 - ![image.png](../assets/image_1767188751594_0.png)
 - ![image.png](../assets/image_1767188888781_0.png)
-- [[*stochastic gradient descent*]]
+- [[stochastic gradient descent]]
+- [[mini-batch gradient descent]]
+- [[batch gradient descent]]
 -
