@@ -6,6 +6,4 @@ exclude-from-graph-view:: true
 - ## **Secondary subject (25%)** – slower progress, reinforcement
 - [[Linux Commands]]
 - ## **Maintenance subjects (15%)** – revision only
--
-- revision only
-- revision only
+- [[Kubernetes]]
