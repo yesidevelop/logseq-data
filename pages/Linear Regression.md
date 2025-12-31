@@ -16,4 +16,5 @@
 - ```
   Price = 100 + 50(Number of rooms) + (Small error)
   ```
-- **slope** The slope of a line is a measure of how steep it is. #card
+- **slope** The slope of a line is a measure of how steep it is. This ratio is constant over the whole line. In a machine learning model, this is the weight of the corresponding feature#card
+- ***y*-intercept** The *y*-intercept of a line is the height at which the line crosses the vertical (*y-*) axis. In a machine learning model, it is the bias and tells us what the label would be in a data point where all the features are precisely zero. #card
