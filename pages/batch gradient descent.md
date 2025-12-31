@@ -1,0 +1,1 @@
+- When we use the entire dataset, it is called *batch gradient descent*
