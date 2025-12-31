@@ -1,1 +1,2 @@
 - *A special kind of curved functions: Polynomials*
+- polynomial is a function in one variable that can be expressed as a sum of multiples of powers of this variable. /mat
