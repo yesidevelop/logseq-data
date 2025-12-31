@@ -2,3 +2,4 @@
 	- [[Supervised]]
 	- [[Unsupervised]]
 	- [[Reinforced Learning]]
+- revision:: monthly
