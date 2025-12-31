@@ -24,3 +24,4 @@
 - ```
   Price = 30(number of rooms) + 1.5(size) + 10(quality of the schools) – 2(age of the house) + 50
   ```
+-
