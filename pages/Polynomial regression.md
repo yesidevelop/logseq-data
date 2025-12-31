@@ -1,2 +1,3 @@
 - *A special kind of curved functions: Polynomials*
 - polynomial is a function in one variable that can be expressed as a sum of multiples of powers of this variable.
+- ![image.png](../assets/image_1767190015719_0.png)
