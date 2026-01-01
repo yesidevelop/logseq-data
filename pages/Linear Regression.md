@@ -26,8 +26,26 @@
   card-last-reviewed:: 2026-01-01T18:52:53.737Z
   card-last-score:: 5
 - **prediction** The prediction is the output of the model. If the model says, “I think the house with four rooms is going to cost $300,” then the prediction is 300. #card
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2026-01-05T18:53:49.871Z
+  card-last-reviewed:: 2026-01-01T18:53:49.872Z
+  card-last-score:: 5
 - **weights** In the formula corresponding to the model, each feature is multiplied by a corresponding factor. These factors are the weights. In the previous formula, the only feature is the number of rooms, and its corresponding weight is 50. #card
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2026-01-05T18:54:17.949Z
+  card-last-reviewed:: 2026-01-01T18:54:17.951Z
+  card-last-score:: 5
 - **bias** As you can see, the formula corresponding to the model has a constant that is not attached to any of the features. This constant is called the bias. In this model, the bias is 100, and it corresponds to the base price of a house. #card
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2026-01-05T18:54:26.090Z
+  card-last-reviewed:: 2026-01-01T18:54:26.090Z
+  card-last-score:: 5
 - **Complicated example**
   ![image.png](../assets/image_1767169456006_0.png)
 - ![image.png](../assets/image_1767169500804_0.png)
