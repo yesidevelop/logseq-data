@@ -1,0 +1,1 @@
+- Overfitting occurs when a regression model is too complex and begins to "memorize" the training data, including its random noise and outliers
