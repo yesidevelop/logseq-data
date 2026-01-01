@@ -1,0 +1,1 @@
+- [[MiniMaxAI/MiniMax-M2.1]]
