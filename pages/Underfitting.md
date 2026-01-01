@@ -1,1 +1,2 @@
 - Underfitting occurs when a regression model is too simple to capture the relationship between independent and dependent variables
+- *underfitting* looks a lot like not having studied enough for an exam
