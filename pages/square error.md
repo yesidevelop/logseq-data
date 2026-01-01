@@ -15,4 +15,10 @@
   card-last-reviewed:: 2026-01-01T18:53:06.271Z
   card-last-score:: 5
 - **root mean square error**. It is used to match the units in the problem and also to give us a better idea of how much error the model makes in a prediction. How so? Imagine the following scenario: if we are trying to predict house prices, then the units of the price and the predicted price are, for example, dollars ($). The units of the square error and the mean square error are dollars squared, which is not a common unit. If we take the square root, then not only do we get the correct unit, but we also get a more accurate idea of roughly by how many dollars the model is off per house. #card
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2026-01-05T18:54:57.231Z
+  card-last-reviewed:: 2026-01-01T18:54:57.231Z
+  card-last-score:: 5
 - **dot product** To code the RMSE function, we used the dot product, which is an easy way to write a sum of products of corresponding terms in two vectors.

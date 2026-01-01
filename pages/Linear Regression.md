@@ -53,10 +53,34 @@
   Price = 100 + 50(Number of rooms) + (Small error)
   ```
 - **slope** The slope of a line is a measure of how steep it is. This ratio is constant over the whole line. In a machine learning model, this is the weight of the corresponding feature#card
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2026-01-05T18:55:30.797Z
+  card-last-reviewed:: 2026-01-01T18:55:30.797Z
+  card-last-score:: 5
 - ***y*-intercept** The *y*-intercept of a line is the height at which the line crosses the vertical (*y-*) axis. In a machine learning model, it is the bias and tells us what the label would be in a data point where all the features are precisely zero. #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2026-01-01T19:00:00.000Z
+  card-last-reviewed:: 2026-01-01T18:55:37.378Z
+  card-last-score:: 1
 - **linear equation** This is the equation of a line. It is given by two parameters: the slope and the *y*-intercept. If the slope is *m* and the *y*-intercept is *b*, then the equation of the line is *y* = *mx* + *b*, and the line is formed by all the points (*x,y*) that satisfy the equation #card
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2026-01-05T18:55:10.183Z
+  card-last-reviewed:: 2026-01-01T18:55:10.183Z
+  card-last-score:: 5
 - ![image.png](../assets/image_1767169853770_0.png)
 - **Multivariate linear regression** models the linear relationship between **multiple independent variables (predictors)** and **one or more dependent (outcome) variables** #card
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2026-01-05T18:55:44.999Z
+  card-last-reviewed:: 2026-01-01T18:55:45.000Z
+  card-last-score:: 5
 - ```
   Price = 30(number of rooms) + 1.5(size) + 10(quality of the schools) – 2(age of the house) + 50
   ```
