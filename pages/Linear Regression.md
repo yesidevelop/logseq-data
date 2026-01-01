@@ -41,4 +41,7 @@
 - ### Problems
 - [[Underfitting]]
 - [[Overfitting]]
--
+- ### Solutions to Avoid Underfitting and Overfitting
+- testing and validation
+- model complexity graph
+- regularization
