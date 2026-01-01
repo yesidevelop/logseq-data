@@ -1,0 +1,1 @@
+- [[hunyuanvideo-community/HunyuanVideo]]
