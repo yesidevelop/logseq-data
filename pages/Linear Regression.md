@@ -32,6 +32,12 @@
 - ![image.png](../assets/image_1767171689848_0.png)
 - **learning rate** A very small number that we pick before training our model. This number helps us make sure our model changes in very small amounts by training #card
 - **Error function** (Also called *loss functions* or *cost functions*) is a metric that tells us how our model is doing #card 
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2026-01-05T18:51:22.161Z
+  card-last-reviewed:: 2026-01-01T18:51:22.162Z
+  card-last-score:: 5
   ![image.png](../assets/image_1767176977121_0.png)
   **Types:**
   [[absolute error]]
