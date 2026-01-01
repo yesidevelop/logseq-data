@@ -41,6 +41,7 @@
 - ### Problems
 - [[Underfitting]]
 - [[Overfitting]]
+- Setting the right hyperparameters for our model is of extreme importance. If we set some of them wrong, we are prone to underfit or overfit #card
 - ### Solutions to Avoid Underfitting and Overfitting
 - testing and validation
 - model complexity graph
