@@ -425,4 +425,4 @@
  :excluded-pages? false}
  :graph/forcesettings {:charge-range 500
  :charge-strength -1000
- :link-dist 110}}
+ :link-dist 10}}
