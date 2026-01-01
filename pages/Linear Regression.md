@@ -31,6 +31,12 @@
   The way we do this is the same way we do many things in machine learning: step by step. Start with a random line, and figure out a way to improve this line a *little bit* by moving it closer to the points. Repeat this process many times, and voilà, we have the desired line. This process is called the linear regression algorithm.
 - ![image.png](../assets/image_1767171689848_0.png)
 - **learning rate** A very small number that we pick before training our model. This number helps us make sure our model changes in very small amounts by training #card
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2026-01-05T18:51:59.224Z
+  card-last-reviewed:: 2026-01-01T18:51:59.224Z
+  card-last-score:: 5
 - **Error function** (Also called *loss functions* or *cost functions*) is a metric that tells us how our model is doing #card 
   card-last-interval:: 4
   card-repeats:: 1
@@ -48,6 +54,12 @@
 - [[Underfitting]]
 - [[Overfitting]]
 - Setting the right hyperparameters for our model is of extreme importance. If we set some of them wrong, we are prone to underfit or overfit #card
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.6
+  card-next-schedule:: 2026-01-05T18:51:51.606Z
+  card-last-reviewed:: 2026-01-01T18:51:51.606Z
+  card-last-score:: 5
 - ### Solutions to Avoid Underfitting and Overfitting
 - testing and validation
 - model complexity graph
