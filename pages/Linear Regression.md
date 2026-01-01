@@ -37,3 +37,4 @@
   [[absolute error]]
   [[square error]]
 - [[Gradient Descent]] *How to decrease an error function by slowly descending from a mountain*
+-
