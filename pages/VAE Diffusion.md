@@ -1,0 +1,1 @@
+- VAE Diffusion (Variational Autoencoder Diffusion) refers to ==powerful AI image generation systems like **Stable Diffusion**, which blend a VAE with a diffusion model to efficiently create high-quality images by working in a compressed "latent space", making the process faster and improving image fidelity, color, and detail compared to using diffusion alone==.

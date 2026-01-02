@@ -5,3 +5,4 @@
 - [[Text to Music Models]]
 - ## Concepts
 - [[model distillation]]
+- [[VAE Diffusion]]
