@@ -1,0 +1,2 @@
+- A distilled version of a model (model distillation) is ==a smaller, more efficient AI model that learns to mimic a larger, complex "teacher" model==, transferring its knowledge to become faster and cheaper to run, ideal for devices with limited resources like phones, while retaining most of the original's performance.
+  title:: model distillation

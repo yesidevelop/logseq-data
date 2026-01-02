@@ -4,4 +4,4 @@
 - [[Text to Video Models]]
 - [[Text to Music Models]]
 - ## Concepts
-- [[Distilled version of a Model]]
+- [[model distillation]]
