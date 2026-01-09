@@ -6,7 +6,8 @@
 - *Divide Labor*
 -
 - ### Text example
--
+	- https://raw.githubusercontent.com/BrightPool/prompt-engineering-for-generative-ai-examples/refs/heads/main/images/OnePager-Text.png
+- ![OnePager-Text.png](../assets/OnePager-Text_1767967589141_0.png)
 -
 - ### Image example
 - ![image.png](../assets/image_1767967535828_0.png)
