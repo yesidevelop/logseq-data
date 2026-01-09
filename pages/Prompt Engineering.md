@@ -5,3 +5,8 @@
 - *Evaluate Quality*
 - *Divide Labor*
 -
+- ### Text example
+-
+-
+- ### Image example
+- ![image.png](../assets/image_1767967535828_0.png)
